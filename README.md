@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Added Redux+Saga example
+Added (Redux+Saga example 02)[https://github.com/Lemoncode/redux-sagas-typescript-by-example]
 Eslint and prettier with vscode configured
 
 ## Available Scripts
