@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Added (Redux+Saga example 02)[https://github.com/Lemoncode/redux-sagas-typescript-by-example]
+Added [Redux+Saga example 02](https://github.com/Lemoncode/redux-sagas-typescript-by-example)<br />
 Eslint and prettier with vscode configured
 
 ## Available Scripts
@@ -50,6 +50,6 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-Set of step by step guided samples to help you get started with redux sagas + typescript
-https://github.com/Lemoncode/redux-sagas-typescript-by-example
+Set of step by step guided samples to help you get started with redux sagas + typescript <br />
+https://github.com/Lemoncode/redux-sagas-typescript-by-example <br />
 https://github.com/Lemoncode/redux-sagas-typescript-by-example/tree/master/02_take_latest
